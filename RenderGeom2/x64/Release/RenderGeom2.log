@@ -1,0 +1,8 @@
+﻿  Application.cpp
+  Application3D.cpp
+  Gizmos.cpp
+  Mesh.cpp
+  OpenGLApp.cpp
+  Shader.cpp
+  glad.c
+LINK : fatal error LNK1181: cannot open input file 'glfw3.lib'
