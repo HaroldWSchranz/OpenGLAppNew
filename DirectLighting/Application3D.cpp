@@ -131,7 +131,7 @@ void Application3D::draw()
 
     // bind shader
     //m_shader.bind();
-// bind phong shader program
+    // bind phong shader program
     m_phongShader.bind();
 
     // bind light
@@ -165,14 +165,14 @@ void Application3D::draw()
     Gizmos::draw(pv);
 
     // bind shader 
-    m_shader.bind();
+    //m_shader.bind();
 
     // bind transform 
     //auto pvm = m_projection * m_view * m_quadTransform;
     //m_shader.bindUniform("ProjectionViewModel", pvm);
 
     // draw quad 
-    m_quadMesh.draw();
+    //m_quadMesh.draw();
 
     glfwSwapBuffers(m_window);
     glfwPollEvents();
