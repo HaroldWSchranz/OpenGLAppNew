@@ -1,10 +1,1 @@
-﻿  Application.cpp
-  Application3D.cpp
-  Gizmos.cpp
-  Mesh.cpp
-  OpenGLApp.cpp
-  Shader.cpp
-  Generating Code...
-  glad.c
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" exited with code 1104.
-LINK : fatal error LNK1104: cannot open file 'glfw3.lib'
+﻿  RenderGeom2.vcxproj -> C:\Users\harol\source\repos\OpenGL\OpenGLAppNew\x64\Debug\RenderGeom2.exe
